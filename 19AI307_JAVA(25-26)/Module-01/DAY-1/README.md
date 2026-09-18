@@ -29,8 +29,8 @@ To understand and demonstrate the basic data types in Java by declaring variable
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Deepika R
-RegisterNumber: 212224040061 
+Developed by: Abinaya A
+RegisterNumber: 212224230004
 */
 ```
 
