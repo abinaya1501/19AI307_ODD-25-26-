@@ -170,8 +170,8 @@ To write a Java program that demonstrates the use of access specifiers, specific
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: THEJASHREE S
-RegisterNumber:212224240175
+Developed by:Abinaya A 
+RegisterNumber:212224230004
 */
 ```
 
