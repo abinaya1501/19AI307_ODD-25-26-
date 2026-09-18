@@ -26,8 +26,8 @@ To write a Java program that demonstrates the concept of Class and Object using 
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: THEJASHREE S
-RegisterNumber:212224240175
+Developed by: Abinaya A
+RegisterNumber:21222423004
 */
 ```
 
@@ -253,8 +253,8 @@ To write a Java program to demonstrate variable scope and the use of a construct
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: THEJASHREE S
-RegisterNumber:212224240175
+Developed by: Abinaya A
+RegisterNumber:212224230004
 */
 ```
 
@@ -329,8 +329,8 @@ To write a Java program that demonstrates the use of access modifiers through st
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: THEJASHREE S
-RegisterNumber:212224240175 
+Developed by: Abinaya A
+RegisterNumber:212224230004
 */
 ```
 
